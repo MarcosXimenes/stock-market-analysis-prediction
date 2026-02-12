@@ -6,10 +6,10 @@ Analysis and prediction of stock market data using Machine Learning techniques i
 
 This Jupyter Notebook project demonstrates a complete data science workflow applied to stock market data:
 
-- **Data Collection** -- Gathering historical stock price data.
-- **Exploratory Data Analysis** -- Visualizing trends, seasonality, and key statistical indicators.
-- **Feature Engineering** -- Creating meaningful features from raw stock data.
-- **Predictive Modeling** -- Training ML models to forecast future stock prices.
+- **Data Collection** — Gathering historical stock price data.
+- **Exploratory Data Analysis** — Visualizing trends, seasonality, and key statistical indicators.
+- **Feature Engineering** — Creating meaningful features from raw stock data.
+- **Predictive Modeling** — Training ML models to forecast future stock prices.
 
 ## Tech Stack
 
